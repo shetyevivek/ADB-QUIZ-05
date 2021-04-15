@@ -1,1 +1,0 @@
-# ADB-QUIZ-05 on AWS Elastic Beanstalk
